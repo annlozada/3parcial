@@ -4,10 +4,11 @@ class MiFooter
     this.innerHTML = /* html */
       `<p>
         &copy; 2021
-        Ricardo Armando Machorro Reyes.
+        Ana Laura Lozada Rojas.
       </p>`;
   }
 }
 
 customElements.define(
   "mi-footer", MiFooter);
+
